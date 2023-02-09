@@ -16,5 +16,5 @@ def main():
     capture.release()
     cv2.destroyAllWindows()
     
-if __init__=='__main__':
+if __name__=='__main__':
     main()
